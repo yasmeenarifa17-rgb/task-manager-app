@@ -2,6 +2,10 @@
 
 A secure full-stack Task Management Web Application built using React, Firebase Authentication, Firestore Database, and Tailwind CSS.
 
+## Live Demo
+
+https://task-manager-app-ten-beta.vercel.app/
+
 ## Features
 
 - User Authentication
